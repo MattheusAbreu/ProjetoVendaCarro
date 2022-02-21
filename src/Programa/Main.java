@@ -393,6 +393,13 @@ public class Main {
 				
 				
 			}
+			else if (opcaoEscolhida == 0) {
+				
+				continue;
+				
+				
+				
+			}
 			else {
 				System.out.println("Opcao Invalida");
 				continue;
